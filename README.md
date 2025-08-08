@@ -3,7 +3,7 @@ This project is a simple Employee Attendance System built using Microsoft Access
 
 ### Key Features:
 - Add, update, and manage employee details
-- Record daily attendance (Present/Absent/Late)
+- Record daily attendance (Present/Absent)
 - Generate attendance reports by date or employee
 - Easy-to-use forms and queries for data handling
 - Visual reports using MS Access reporting tools
